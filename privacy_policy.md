@@ -37,4 +37,4 @@ Bu gizlilik politikası zaman zaman güncellenebilir. Değişiklikler bu sayfa �
 ## İletişim
 
 Gizlilik politikamızla ilgili sorularınız varsa bizimle şu adresten iletişime geçebilirsiniz:  
-📧 [ornek@eposta.com](mailto:ornek@eposta.com)
+📧 (mustafa.caglar147@gmail.com)
