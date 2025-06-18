@@ -1,40 +1,42 @@
-# Gizlilik Politikası
+📄 Gizlilik Politikası – Story Time - AI
+Yürürlük Tarihi: 18 Haziran 2025
+Son Güncelleme: 18 Haziran 2025
 
-Bu uygulama, çocuklara yönelik yapay zeka destekli hikaye oluşturma hizmeti sunmaktadır. Kullanıcı gizliliğine büyük önem veriyoruz. Bu gizlilik politikası, uygulamanın hangi verileri topladığını, nasıl kullandığını ve nasıl koruduğunu açıklar.
+Story Time - AI uygulaması, çocuklara yönelik yapay zeka destekli hikaye oluşturma hizmeti sunmaktadır. Kullanıcı gizliliği bizim için son derece önemlidir. Bu gizlilik politikası, uygulama tarafından toplanabilecek verileri, bu verilerin nasıl kullanıldığını ve nasıl korunduğunu açıklar.
 
-## Toplanan Veriler
+🔹 1. Toplanan Veriler
+Uygulamamız aşağıdaki sınırlı verileri toplayabilir:
 
-Uygulamamız şu verileri toplayabilir:
+Kullanıcı adı (isteğe bağlı): Yalnızca kişiselleştirme amacıyla, cihazda yerel olarak saklanır. Sunucuya gönderilmez.
 
-- Kullanıcı adı (isteğe bağlı)
-- Oluşturulan hikaye içerikleri
-- Cihaza özel anonim tanımlayıcılar (reklam ya da analiz amacıyla değil, sadece uygulama içi teknik iyileştirme amacıyla)
+Oluşturulan hikaye içerikleri: Cihaz içinde kullanıcıya ait olarak saklanır, dışa paylaşılmaz.
 
-## Veri Kullanımı
+Cihaza özel anonim tanımlayıcılar: (örneğin Android Reklam Kimliği) yalnızca uygulama içi teknik analiz ve kararlılık geliştirmesi için kullanılır. Bu veriler kişisel veri içermez ve uygulama dışına aktarılmaz.
 
-Toplanan veriler şu amaçlarla kullanılır:
+🔹 2. Reklamlar ve Üçüncü Taraf Hizmetleri
+Uygulama, çocuklara uygun reklamlar sunmak için Google AdMob reklam hizmetini kullanabilir. Tüm reklamlar Google’ın çocuklara özel filtreleme ilkelerine uygundur.
 
-- Hikayeleri kişiselleştirmek
-- Uygulama deneyimini geliştirmek
-- Kullanıcı tarafından oluşturulan içerikleri cihazda saklamak
+AdMob reklam ağı, yalnızca kişisel olmayan, anonim veriler kullanabilir. Daha fazla bilgi için Google’ın gizlilik politikasına başvurabilirsiniz:
+👉 https://policies.google.com/privacy
 
-## Üçüncü Taraflarla Paylaşım
+🔹 3. Veri Paylaşımı
+Toplanan veriler:
 
-Kullanıcı verileri hiçbir şekilde üçüncü taraflarla paylaşılmaz.
+Üçüncü taraflarla paylaşılmaz
 
-## Güvenlik
+Satılmaz, ticari amaçla kullanılmaz
 
-Veriler, güvenli bir şekilde saklanmakta ve sadece uygulamanın çalışması için kullanılmaktadır.
+Sadece uygulama içi deneyimi iyileştirmek için kullanılır
 
-## Çocukların Gizliliği
+🔹 4. Güvenlik
+Tüm veriler yalnızca cihaz üzerinde tutulur ve uygulamanın doğru şekilde çalışmasını sağlamak için güvenli biçimde işlenir. Sunuculara herhangi bir veri gönderilmez.
 
-Bu uygulama 13 yaş altı çocuklar için uygundur. Hiçbir kişisel bilgi zorunlu olarak talep edilmez. Uygulama COPPA ve benzeri gizlilik ilkelerine uygundur.
+🔹 5. Çocukların Gizliliği
+Bu uygulama, 13 yaş altı çocuklara yöneliktir ve COPPA (Çocukların Çevrimiçi Gizliliğini Koruma Yasası) ile Google Play Aile Politikaları ile tam uyumludur. Hiçbir kişisel veri zorunlu olarak talep edilmez.
 
-## Değişiklikler
+🔹 6. Politika Güncellemeleri
+Bu gizlilik politikası zaman zaman güncellenebilir. Güncellemeler uygulama içinden ve/veya bu sayfa üzerinden duyurulacaktır.
 
-Bu gizlilik politikası zaman zaman güncellenebilir. Değişiklikler bu sayfa üzerinden duyurulur.
-
-## İletişim
-
-Gizlilik politikamızla ilgili sorularınız varsa bizimle şu adresten iletişime geçebilirsiniz:  
-📧 (mustafa.caglar147@gmail.com)
+🔹 7. İletişim
+Gizlilik politikamızla ilgili herhangi bir sorunuz varsa bizimle iletişime geçebilirsiniz:
+📧 mustafa.caglar147@gmail.com
